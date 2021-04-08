@@ -1,0 +1,13 @@
+Les méthodes descriptives (recherche de « patterns ») :
+       visent à mettre en évidence des informations présentes
+      mais cachées par le volume des données (c’est le cas des
+      segmentations de clientèle et des recherches d’associations de 
+      produits sur les tickets de caisse)
+       réduisent, résument, synthétisent les données
+       il n’y a pas de variable à expliquer
+      
+Les méthodes prédictives (modélisation) :
+       visent à extrapoler de nouvelles informations à partir des 
+      informations présentes (c’est le cas du scoring)
+       expliquent les données
+       il y a une variable à expliquer
