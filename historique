@@ -1,0 +1,41 @@
+Le “data mining” que l’on peut traduire par “fouille de données” apparaît au milieu 
+des années 1990 aux États-Unis comme une nouvelle discipline à l’interface de la 
+statistique et des technologies de l’information : bases de données, intelligence 
+artificielle, apprentissage automatique (« machine learning »). 
+David Hand (1998) en donne la définition suivante: « Data Mining consists in the 
+discovery of interesting, unexpected, or valuable structures in large data sets». Voir 
+également Fayyad & al (1996) et Friedman (1997). 
+La métaphore qui consiste à considérer les grandes bases de données comme des 
+gisements d’où l’on peut extraire des pépites à l’aide d’outils spécifiques n’est certes 
+pas nouvelle. Dès les années 1970 Jean-Paul Benzécri n’assignait-il pas le même 
+objectif à l’analyse des données ? : « L’analyse des données est un outil pour dégager 
+de la gangue des données le pur diamant de la véridique nature ». 
+On a pu donc considérer que bien des praticiens faisaient du data mining sans le 
+savoir. 
+On confondra ici le « data mining », au sens étroit qui désigne la phase d’extraction 
+des connaissances, avec la découverte de connaissances dans les bases de données 
+(KDD ou Knowledge Discovery in Databases) (cf Hébrail & Lechevallier, 2003). 
+Comme l’écrivent ces derniers auteurs : 
+« La naissance du data mining est essentiellement due à la conjonction des deux 
+facteurs suivants : 
+- l’accroissement exponentiel dans les entreprises, de données liés à leur activité 
+(données sur la clientèle , les stocks, la fabrication, la comptabilité …) qu’il serait 
+dommage de jeter car elles contiennent des informations-clé sur leur 
+fonctionnement (...) stratégiques pour la prise de décision. 
+- Les progrès très rapides des matériels et des logiciels (…) 
+L’objectif poursuivi par le data mining est donc celui de la valorisation des données 
+contenues dans les systèmes d’information des entreprises. » 
+Les premières applications se sont faites dans le domaine de la gestion de la relation 
+client qui consiste à analyser le comportement de la clientèle pour mieux la fidéliser et 
+lui proposer des produits adaptés. Ce qui caractérise la fouille de données (et choque 
+souvent certains statisticiens) est qu’il s’agit d’une analyse dite secondaire de données 
+recueillies à d’autres fins (souvent de gestion) sans qu’un protocole expérimental ou 
+une méthode de sondage ait été mis en œuvre. 
+Quand elle est bien menée, la fouille de données a apporté des succès certains, à tel 
+point que l’engouement qu’elle suscite a pu entraîner la transformation (au moins 
+nominale) de services statistiques de grandes entreprises en services de data mining. 
+La recherche d’information dans les grandes bases de données médicales ou de santé 
+(enquêtes, données hospitalières etc.) par des techniques de data mining est encore 
+relativement peu développée, mais devrait se développer très vite à partir du moment 
+où les outils existent. Quels sont les outils du data mining et que peut-on trouver et 
+prouver ? 
